@@ -36,4 +36,4 @@ The objective of this project is to analyze financial data from 2019–2020 and 
 10. Analyzed the results and generated actionable business insights.
 
 ## Dashboard
-(DashBoard.png)
+![Financial-Analysis-Dashboard](DashBoard.png)
