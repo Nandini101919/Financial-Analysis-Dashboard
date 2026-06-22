@@ -37,3 +37,16 @@ The objective of this project is to analyze financial data from 2019–2020 and 
 
 ## Dashboard
 ![Financial-Analysis-Dashboard](DashBoard.png)
+
+## Project Insights
+
+- The dashboard provides a comprehensive view of financial performance during 2019–2020.
+- Revenue distribution varies across regions, countries, products, and store ranks.
+- Interactive filters help users analyze revenue trends across different quarters and years.
+- KPI metrics such as Total Revenue, Average Revenue, Total Transactions, and Total Countries enable quick performance evaluation.
+- Product and regional analysis help identify key revenue-generating areas and business opportunities.
+- The dashboard supports data-driven decision-making through clear and interactive visualizations.
+
+## Final Conclusion
+
+This Financial Analysis Dashboard successfully transforms raw financial data from 2019–2020 into meaningful business insights using Power BI. By leveraging data modeling, DAX measures, and interactive visualizations, the dashboard enables effective analysis of revenue trends, transaction performance, regional contributions, and product performance. The project demonstrates how Power BI can be used to convert complex datasets into actionable insights that support strategic business decisions.
