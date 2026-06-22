@@ -2,4 +2,7 @@
 
 ## Project Objective
 
-This project focuses on developing an interactive Financial Analysis Dashboard using Power BI. The dashboard transforms raw financial data into meaningful insights through data modeling, DAX calculations, and interactive visualizations. It enables users to analyze revenue, transactions, regional performance, product performance, and business trends for effective decision-making.
+The objective of this project is to analyze financial data from 2019–2020 and generate an interactive Revenue Analysis Report using Power BI.
+
+## Dataset used
+- <a"https://github.com/Nandini101919/Financial-Analysis-Dashboard/blob/main/DataSet.xlsx">Financial Analysis Report 2019-2020</a>
